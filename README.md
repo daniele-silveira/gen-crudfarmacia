@@ -17,7 +17,6 @@ Este é um projeto de uma API REST desenvolvida com **Spring Boot**, que impleme
 - **Relacionamento entre Produtos e Categorias** (OneToMany e ManyToOne)
 - **Validações com Bean Validation**
 
-
 ---
 ## 🗃️ Estrutura do Banco de Dados
 ### **Tabela `tb_categoria`**
@@ -65,7 +64,6 @@ Este é um projeto de uma API REST desenvolvida com **Spring Boot**, que impleme
  ┃ ┃ ┗ 📜 FarmaciaApplication.java  # Classe principal do Spring Boot
  ┃ ┗ 📂 resources
  ┃ ┃ ┣ 📜 application.properties  # Configurações do banco de dados
-```
 
 ---
 ## 📜 Licença
